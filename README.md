@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structures & Algorithms.**
 
-- 👨‍💻 All of my projects are available at [dane](dane)
+- 👨‍💻 All of my projects are available at [https://peaceful-ritchie-4cbfd8.netlify.app/](done)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, ReactJS.**
 

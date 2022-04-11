@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandu Daane</h1>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
+<p>I’m a full-stack web developer and creative coder who specializes in MERN stack development. My mission is to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu806&label=Profile%20views&color=0e75b6&style=flat" alt="chandu806" /> </p>
 

@@ -7,15 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
+<div align="center" ><img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" /></div>
+
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structures & Algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://peaceful-ritchie-4cbfd8.netlify.app/](done)
+- 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/chandu806?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, ReactJS.**
+- 👨🏻‍🎓 Check out My Resume at[ _**Chandu Daane**_](https://drive.google.com/file/d/1TVYWwn4I15T7qg9pZoKlgAu0sExXow_v/view?usp=sharing)
+
+- 👤 Check out My Portfolio at [**Chandu Daane Portfolio**](https://portfolio-main-tau.vercel.app/)
 
 - 📫 How to reach me **chandudaane@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TVYWwn4I15T7qg9pZoKlgAu0sExXow_v/view?usp=sharing](https://drive.google.com/file/d/1TVYWwn4I15T7qg9pZoKlgAu0sExXow_v/view?usp=sharing)
+- ⚙️ Technical Skills **HTML, CSS, JavaSript, Node.JS, React, Redux**
+
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1TVYWwn4I15T7qg9pZoKlgAu0sExXow_v/view?usp=sharing](https://drive.google.com/file/d/1TVYWwn4I15T7qg9pZoKlgAu0sExXow_v/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
